@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-1om8e@4qtcdw-^b$(##uh@eekzm36+aro2$=&5=ttrojtye8-7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'door-system.azurewebsites.net']
 
 
 # Application definition
